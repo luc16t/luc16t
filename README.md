@@ -12,13 +12,24 @@ I enjoy designing APIs, working with databases, and creating solid backend archi
 • Always learning something new.  
 • Clean code advocate.
 
-## Tech Stack
+## Languages and Tools¡
+
+## Backend:
 <br>
-
-Backend:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c" />
 </p>
-
 <hr>
+
+## Frontend:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html5,css3,javascript" />
+</p>
+<hr>
+
+## Databases:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgreesql,mysql,mongodb" />
+</p>
+<hr>
+
