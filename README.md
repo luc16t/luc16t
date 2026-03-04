@@ -17,7 +17,7 @@ I enjoy designing APIs, working with databases, and creating solid backend archi
 
 Backend:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=node,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=python,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
