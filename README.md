@@ -18,18 +18,7 @@ I enjoy designing APIs, working with databases, and creating solid backend archi
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c" />
-</p>
-<hr>
-
-## Frontend:
-<p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
-</p>
-<hr>
-
-## Databases:
-<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 <hr>
-
