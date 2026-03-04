@@ -13,8 +13,6 @@ I enjoy designing APIs, working with databases, and creating solid backend archi
 • Clean code advocate.
 
 ## 🛠 Languages and Tools
-
-## Backend:
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c" />
