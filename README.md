@@ -12,7 +12,12 @@ I enjoy designing APIs, working with databases, and creating solid backend archi
 • Always learning something new.  
 • Clean code advocate.
 
+<br>
+<p align="center">  
 ## 🛠 Languages and Tools
+</p>
+<hr>
+  
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,c" />
