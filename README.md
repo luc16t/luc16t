@@ -29,7 +29,7 @@ I enjoy designing APIs, working with databases, and creating solid backend archi
 
 ## Databases:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgreesql,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 <hr>
 
