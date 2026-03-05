@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Lucas
+<h2 align= "center"> Hi there 👋 I'm Lucas</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luc16t&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
