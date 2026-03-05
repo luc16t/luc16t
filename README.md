@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=luc16t&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
-## 💻 Full-Stack Developer focused on Backend Development  
+<h2 align= "center"> 💻 Full-Stack Developer focused on Backend Development</h2>
 
 I'm passionate about building scalable, efficient, and well-structured applications.  
 I enjoy designing APIs, working with databases, and creating solid backend architectures that power modern web applications.
