@@ -14,7 +14,8 @@ I enjoy designing APIs, working with databases, and creating solid backend archi
 
 <br>
 <p align="center">  
-## 🛠 Languages and Tools
+
+<h2 align= "center"> ⚒️Languages and Tools ⚒️</h2>
 </p>
 <hr>
   
